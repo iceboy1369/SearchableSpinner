@@ -1,6 +1,8 @@
 # SearchableSpinner
 Fully Searchable Spiner Dialog
 
+** NOTICE: I edited this library and convert the field text from ltr to rtl side
+
 ![Screen Shot](https://cloud.githubusercontent.com/assets/18304656/23259376/d470d6aa-f9f2-11e6-98f1-679f1e32af8f.gif)
 
 
